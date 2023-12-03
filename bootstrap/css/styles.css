@@ -1,0 +1,16 @@
+.login-btn{
+    background-color: #54BFAC;
+    color: white;
+}
+
+.login-btn:hover{
+    background-color: #54BFAC;
+    color: white;
+}
+.body{
+    background-color: #54BFAC;
+}
+
+.form-control{
+    border: 0;
+}
